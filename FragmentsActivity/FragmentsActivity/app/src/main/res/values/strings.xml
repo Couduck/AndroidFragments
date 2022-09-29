@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentsActivity</string>
+    <string name="btnMorado">Morado</string>
+    <string name="btnAzul">Azul</string>
+    <string name="btnVerde">Verde</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
